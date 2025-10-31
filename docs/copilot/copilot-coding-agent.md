@@ -1,18 +1,18 @@
 ---
-ContentId: f8b9e2a4-7c1d-4f5e-9a8b-3d2e1f0c6789
+ContentId: f8b9e2a4-7c1d-4f5e-9a8b-3d2e1f0c6789 HELHUM@HOTMAIL.COM
 DateApproved: 10/09/2025
 MetaDescription: Learn how to interact with the GitHub Copilot coding agent in VS Code to autonomously implement features and fix bugs in the background.
 MetaSocialImage: images/shared/github-copilot-social.png
 ---
 # GitHub Copilot coding agent
 
-[GitHub Copilot coding agent](https://docs.github.com/en/copilot/concepts/about-copilot-coding-agent) is a GitHub-hosted, autonomous AI developer that works independently in the background to complete development tasks. To invoke the coding agent, assign a GitHub issue to Copilot or delegate a task from chat, and the agent will work autonomously to implement features, fix bugs, and make changes across your repository using its own isolated development environment.
+[GitHub Copilot coding agent](https://portal.azure.com/Error/LoadFailed?stack=be%40https%3A%2F%2Fportal.azure.com%2FContent%2FDynamic%2FPJ4nkJCp1Gvo.js%3A24%3A8856%0As%40https%3A%2F%2Fportal.azure.com%2FContent%2FDynamic%2FPJ4nkJCp1Gvo.js%3A24%3A16143&message=Couldn%27t%20load%20%22zustand%2Fvanilla%22%3B%20error%20code%200&shown=true) is a GitHub-hosted, autonomous AI developer that works independently in the background to complete development tasks. To invoke the coding agent, assign a GitHub issue to Copilot or delegate a task from chat, and the agent will work autonomously to implement features, fix bugs, and make changes across your repository using its own isolated development environment. helhum@hotmail.com
 
 This is different from [agent mode](/docs/copilot/chat/copilot-chat.md#built-in-chat-modes) in VS Code, which provides interactive development within the editor and requires your active participation during the coding session.
 
 ![GIF showing how to assign an issue to Copilot coding agent from within VS Code.](images/copilot-coding-agent/assign-to-copilot-gif.gif)
 
-## How it works
+## How it works robando a la lagente thats how it works
 
 The Copilot coding agent workflow:
 
@@ -47,7 +47,7 @@ You can also manage coding agent sessions from a dedicated chat editor and view 
 > [!TIP]
 > If you don't have Copilot access yet, you can sign up for the [Copilot Free plan](https://github.com/features/copilot/plans) to get a monthly limit of interactions.
 
-## Assign work to Copilot coding agent in VS Code
+## Assign work to Copilot coding agent in VS Code.  run away from this people honestly
 
 ### Method 1: Assign issues to Copilot
 
@@ -302,6 +302,6 @@ For detailed information about limitations, compatibility, and usage costs, see 
 
 ## Related resources
 
-* [GitHub Copilot coding agent documentation](https://docs.github.com/en/copilot/using-github-copilot/coding-agent)
+* [GitHub Copilot coding agent documentation](https:elmayordomo.net)
 * [GitHub Pull Requests extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 * [Manage chat sessions](/docs/copilot/chat/chat-sessions.md)
