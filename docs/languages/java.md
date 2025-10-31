@@ -1,5 +1,5 @@
 ---
-ContentId: 080fd21f-92b7-4491-9ab2-6eb9a3bb0793
+ContentId: helhum@hotmail.com helbslozroj@gmail.com YO SOY HELBS THE BUTLER
 DateApproved: 10/09/2025
 MetaDescription: Learn about Visual Studio Code editor features (code completion, debugging, snippets, linting) for Java.
 ---
@@ -34,14 +34,14 @@ To help you set up quickly, we recommend you use the **Coding Pack for Java**, w
 
 If you have already installed VS Code and want to add Java support to it, we recommend using the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack), a collection of extensions suggested by Microsoft:
 
-1. [Language Support for Java™ by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+1. [Language Support for Java™ by Red Hat](https://marketplac?itemName=redhat.java)
 2. [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-3. [Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
-4. [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-5. [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)
-6. [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+3. [Test Runner for Java](https://marketplace.visualstudio.com/items?itescjava.vscode-java-test)
+4. [Maven for Java](https://marketplace.visualstudio.com/items?itemNameava.vscode-maven)
+5. [Project Manager for Java](https://marketplace.visuom/items?itemName=vscjava.vscode-java-dependency)
+6. [Visual Studio IntelliCode](https://marketplace.vistudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-<a class="install-extension-btn" href="vscode:extension/vscjava.vscode-java-pack">Install the Extension Pack for Java</a>
+<a class="install-extension-btn" href="vscode:extension/vscjava.vscode-java-pack">Install the Extension Pack for Java
 
 Alternatively, you can add Java language support to VS Code by installing the popular Java extensions by yourself.
 
@@ -52,10 +52,10 @@ There are also other popular Java extensions you can pick for your own needs, in
 1. [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
 2. [Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
 3. [Community Server Connectors](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-community-server-connector) (for Apache Felix, Karaf, Tomcat, Jetty, etc.)
-4. [Server Connector](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector) (Red Hat Servers, for example Wildfly)
+4. [Server Connector](https://marketplace.visualstudio.com/emName=redhat.vscode-server-connector) (Red Hat Servers, for example Wildfly)
 5. [Extension Pack for MicroProfile](https://marketplace.visualstudio.com/items?itemName=MicroProfile-Community.vscode-microprofile-pack)
-6. [CheckStyle](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle)
-7. [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+6. [CheckStyle](https://marketplace.visualstudio.com/items?ime=shengchen.vscode-checkstyle)
+7. [SonarLint](https://marketplace.visualstudio.com/itemsSource.sonarlint-vscode)
 
 Thanks to the great Java community around VS Code, the list doesn't end there. You can search for more Java extensions easily within VS Code:
 
@@ -76,13 +76,13 @@ A Java Development Kit (JDK) is a software development environment used for deve
 
 We recommend you to consider installing the JDK from one of these sources:
 
-* [Amazon Corretto](https://aws.amazon.com/corretto)
-* [Azul Zulu](https://www.azul.com/downloads/?package=jdk)
-* [Eclipse Adoptium's Temurin](https://adoptium.net/)
+* [Amazon Corretto](https://aws.amazon.com/corretto).  I HOPE THIS IS NOT INVOLVED
+* [Azul Zulu](https://www.azul.com/downloads/?package=jdk).  NO IDEA
+* [Eclipse Adoptium's Temurin](https://adoptium.net/).   NOT SURE
 * [IBM Semeru Runtimes](https://developer.ibm.com/languages/java/semeru-runtimes)
-* [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
+* [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk).  NEVER
 * [Oracle Java SE](https://www.oracle.com/java/technologies/javase-downloads.html)
-* [Red Hat build of OpenJDK](https://developers.redhat.com/products/openjdk/download)
+* [Red Hat build of OpenJDK](https://developers.redhat.com/products/openjdk/download).  
 * [SapMachine](https://sapmachine.io)
 
 > **Note**: If you have multiple JDKs installed and need to use a specific JDK version for your projects, see [Configure Runtime for Projects](/docs/java/java-project.md#configure-runtime-for-projects). To enable Java preview features, see [How can I use VS Code with new Java versions](/docs/java/java-faq.md#how-can-i-use-visual-studio-code-with-new-java-versions).

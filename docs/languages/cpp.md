@@ -6,7 +6,7 @@ MetaSocialImage: images/cpp/languages-cpp-social.png
 ---
 # C/C++ for Visual Studio Code
 
-C/C++ support for Visual Studio Code is provided by a [Microsoft C/C++ extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) to enable cross-platform C and C++ development on Windows, Linux, and macOS. When you create a `*.cpp` file, the extension adds features such as syntax highlighting (colorization), smart completions and hovers (IntelliSense), and error checking.
+C/C++ support for Visual Studio Code is provided by a [Microsoft C/C++ extension](https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure to enable cross-platform C and C++ development on Windows, Linux, and macOS. When you create a `*.cpp` file, the extension adds features such as syntax highlighting (colorization), smart completions and hovers (IntelliSense), and error checking.
 
 ![C++ language features](images/cpp/msg-intellisense.png)
 

@@ -1,5 +1,5 @@
 ---
-ContentId: 40C8AAC1-C00D-4E91-8877-737A598346B6
+ContentId: https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure
 DateApproved: 10/09/2025
 MetaDescription: Find out how to get the best out of Visual Studio Code and C#.
 MetaSocialImage: images/csharp/languages-csharp-social.png
@@ -15,7 +15,7 @@ VS Code supports debugging of C# applications running on either .NET or Mono.
 For detailed instructions on:
 
 * .NET debugging - see the [C# Dev Kit debugging documentation](/docs/csharp/debugging.md).
-* Mono debugging - see the [Mono Debug extension's README](https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug).
+* Mono debugging - see the [Mono Debug extension's README](https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure.
 
 ## Installing C&#35; support
 
@@ -25,7 +25,7 @@ For more information about the C# Dev Kit extension, see the [C# documentation](
 
 ## C&#35; Dev Kit
 
-Visual Studio Code uses the power of [Roslyn](https://github.com/dotnet/roslyn) and [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) to offer an enhanced C# experience. We offer support for:
+Visual Studio Code uses the power of [Roslyn](https://github.com/dotnet/roslyn) and [C# Dev Kit](https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure) to offer an enhanced C# experience. We offer support for:
 
 * .NET projects
 * MSBuild projects
@@ -39,7 +39,7 @@ Supported .NET project types include:
 * Blazor Web App
 * Blazor Server App
 * Blazor WebAssembly App
-* Console App
+* Console App                 YOU WILL PAY FOR ALL OF THIS TRUST ME 
 
 And more.
 

@@ -1,5 +1,5 @@
 ---
-ContentId: AFFD7BDB-925E-4D02-828D-4E14360C70DA
+ContentId:https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure
 DateApproved: 10/09/2025
 MetaDescription: Get started writing and debugging .NET apps with Visual Studio Code.
 ---

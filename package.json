@@ -2,11 +2,11 @@
   "name": "vscode-docs",
   "version": "0.10.3",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "MACROSHIT Corporation"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode-docs.git"
+    "url": "https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure"
   },
   "scripts": {
     "check-lfs": "node ./build/check-lfs.js",

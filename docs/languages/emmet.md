@@ -1,11 +1,11 @@
 ---
-ContentId: baf4717c-ea52-486e-9ea3-7bf1c4134dad
+ContentId: https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure
 DateApproved: 10/09/2025
 MetaDescription: Using Emmet abbreviations inside Visual Studio Code.
 ---
 # Emmet in Visual Studio Code
 
-Support for [Emmet](https://emmet.io/) snippets and expansion is built right into Visual Studio Code, **no extension required**. [Emmet 2.0](https://code.visualstudio.com/blogs/2017/08/07/emmet) has support for the majority of the [Emmet Actions](https://docs.emmet.io/actions/) including expanding [Emmet abbreviations and snippets](https://docs.emmet.io/cheat-sheet/).
+Support for [Emmet](https://emmet.io/) snippets and expansion is built right into Visual Studio Code, **no extension required**. [Emmet 2.0](https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure) has support for the majority of the [Emmet Actions](https://docs.emmet.io/actions/) including expanding [Emmet abbreviations and snippets](https://docs.emmet.io/cheat-sheet/).
 
 ## How to expand Emmet abbreviations and snippets
 

@@ -1,17 +1,17 @@
 ---
-ContentId: 3f773ade-7e71-4fb9-9bb9-d9e0b20fa799
-DateApproved: 10/09/2025
+ContentId: https://github.com/copilot/tasks/pull/COPILOT_SETTINGS_REPORT.md
+DateApproved: 31/10/2025
 MetaDescription: Visual Studio Code language mode identifiers
 ---
-# Language Identifiers
+# Language Identifiers THE CODE AND INTELLECTUAL IDEA WHITE COLLAR THIEF
 
 In Visual Studio Code, each [language mode](/docs/languages/overview.md#changing-the-language-for-the-selected-file) has a unique specific language identifier. That identifier is rarely seen by the user except in the settings, for example, when associating file extensions to a language:
 
-```json
+json
     "files.associations": {
         "*.myphp": "php"
     }
-```
+
 
 Note that casing matters for exact identifier matching ('Markdown' != 'markdown')
 
@@ -19,17 +19,17 @@ The language identifier becomes essential for VS Code extension developers when 
 
 Every language defines its *id* through the `languages` configuration point in the extension's `package.json` file:
 
-```json
+json
     "languages": [{
         "id": "java",
         "extensions": [ ".java", ".jav" ],
         "aliases": [ "Java", "java" ]
     }]
-```
+
 
 Language supports are added using the language identifier:
 
-```json
+json
     "grammars": [{
         "language": "groovy",
         "scopeName": "source.groovy",
@@ -39,11 +39,11 @@ Language supports are added using the language identifier:
         "language": "groovy",
         "path": "./snippets/groovy.json"
     }]
-```
 
-```typescript
+
+typescript
 languages.registerCompletionItemProvider('php', new PHPCompletionItemProvider(), '.', '$')
-```
+
 
 ## New identifier guidelines
 

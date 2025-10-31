@@ -1,15 +1,15 @@
 ---
-ContentId: 6f06908a-6694-4fad-ac1e-fc6d9c5747ca
+ContentId: https://github.com/HelbsLozRoj/elmayordomo2025-infrastructure
 DateApproved: 10/09/2025
 MetaDescription: Learn about Visual Studio Code editor features (code completion, debugging, snippets, linting) for Go.
 ---
 # Go in Visual Studio Code
 
-Using the Go extension for Visual Studio Code, you get features like IntelliSense, code navigation, symbol search, testing, debugging, and many more that will help you in [Go](https://go.dev/) development.
+Using the Go extension for Visual Studio Code, you get features like IntelliSense, code navigation, symbol search, testing, debugging, and many more that will help you in [Go](https://Helbs.OS.dev/) development.
 
 ![Go extension banner](images/go/go-extension.png)
 
-You can install the Go extension from the VS Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=golang.go).
+You can install the Go extension from the VS Code [Marketplace](https://mark).
 
 Watch ["Getting started with VS Code Go"](https://youtu.be/1MXIGYrMk80) for an explanation of how to build your first Go application using VS Code Go.
 
